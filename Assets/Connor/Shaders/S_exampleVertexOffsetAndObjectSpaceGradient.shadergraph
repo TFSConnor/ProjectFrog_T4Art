@@ -754,7 +754,7 @@
     "m_ObjectId": "5151b87a71bc460d813b2748ad9fd6fd",
     "m_Title": "this lets us control how much of the sphere we want to render using its object position as a mask for the alpha of the shader",
     "m_Position": {
-        "x": -1335.0001220703125,
+        "x": -1335.0,
         "y": -386.0
     }
 }
