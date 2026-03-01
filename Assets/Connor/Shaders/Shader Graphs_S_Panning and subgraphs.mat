@@ -79,8 +79,8 @@ Material:
     - _ZWrite: 0
     - _ZWriteControl: 0
     - _maskPow: 0.03
-    - _maskStepEdge: 0.32
-    - _power: 0.5
+    - _maskStepEdge: 0.02
+    - _power: 0.56
     m_Colors:
     - _Color: {r: 8, g: 0.07451116, b: 0, a: 1}
     - _Pan_Direction: {r: 0.1, g: 0.2, b: 0, a: 0}
