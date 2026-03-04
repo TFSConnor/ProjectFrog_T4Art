@@ -80,9 +80,9 @@ Material:
     - _ZWriteControl: 0
     - _maskPow: 0.03
     - _maskStepEdge: 0.02
-    - _power: 0.56
+    - _power: 0.73
     m_Colors:
-    - _Color: {r: 8, g: 0.07451116, b: 0, a: 1}
+    - _Color: {r: 31.999996, g: 5.6133895, b: 0, a: 1}
     - _Pan_Direction: {r: 0.1, g: 0.2, b: 0, a: 0}
     - _Pan_Speed: {r: 0, g: 0, b: 0, a: 0}
     - _alpha_remap: {r: 0.84, g: 1, b: 0, a: 0}
