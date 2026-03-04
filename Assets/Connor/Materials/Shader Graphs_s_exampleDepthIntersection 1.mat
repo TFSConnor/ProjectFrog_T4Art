@@ -69,12 +69,12 @@ Material:
     - _SrcBlendAlpha: 1
     - _Str: 1.6
     - _Surface: 1
-    - _VertOffsetSize: 0.1
+    - _VertOffsetSize: 0.2
     - _VertOffsetSpeed: 0.1
     - _ZTest: 4
     - _ZWrite: 0
     - _ZWriteControl: 0
-    - _vertOffsetScale: 0.1
+    - _vertOffsetScale: 2.56
     m_Colors:
     - _Color: {r: 383.49808, g: 0, b: 0, a: 1}
   m_BuildTextureStacks: []

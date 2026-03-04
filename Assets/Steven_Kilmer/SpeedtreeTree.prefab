@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5990321825493098928
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 927708191503076525}
+  - component: {fileID: 364963328223603077}
+  m_Layer: 0
+  m_Name: SpeedtreeTree
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &927708191503076525
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5990321825493098928}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.010024644, y: -0.35846296, z: 0.0040551936, w: 0.93348134}
+  m_LocalPosition: {x: 285.09204, y: 199.802, z: 185.43135}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3364742281658169109}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 1.239, y: -42.014, z: 0.022}
+--- !u!205 &364963328223603077
+LODGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5990321825493098928}
+  serializedVersion: 2
+  m_LocalReferencePoint: {x: -0.280159, y: 4.7900047, z: 0.0094127655}
+  m_Size: 9.585888
+  m_FadeMode: 0
+  m_AnimateCrossFading: 0
+  m_LastLODIsBillboard: 0
+  m_LODs:
+  - screenRelativeHeight: 0.036827236
+    fadeTransitionWidth: 0
+    renderers:
+    - renderer: {fileID: 4538181035558898810}
+  m_Enabled: 1
+--- !u!1001 &2971054391609889022
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 927708191503076525}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 2d50e16a1b3ac2040b70f6096300d453, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2d50e16a1b3ac2040b70f6096300d453, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2d50e16a1b3ac2040b70f6096300d453, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2d50e16a1b3ac2040b70f6096300d453, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2d50e16a1b3ac2040b70f6096300d453, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2d50e16a1b3ac2040b70f6096300d453, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2d50e16a1b3ac2040b70f6096300d453, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2d50e16a1b3ac2040b70f6096300d453, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2d50e16a1b3ac2040b70f6096300d453, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2d50e16a1b3ac2040b70f6096300d453, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 2d50e16a1b3ac2040b70f6096300d453, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 4be461c60dc20f54599f5ed5e554b367, type: 2}
+    - target: {fileID: 919132149155446097, guid: 2d50e16a1b3ac2040b70f6096300d453, type: 3}
+      propertyPath: m_Name
+      value: SpeedTree_Tree
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2d50e16a1b3ac2040b70f6096300d453, type: 3}
+--- !u!4 &3364742281658169109 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 2d50e16a1b3ac2040b70f6096300d453, type: 3}
+  m_PrefabInstance: {fileID: 2971054391609889022}
+  m_PrefabAsset: {fileID: 0}
+--- !u!23 &4538181035558898810 stripped
+MeshRenderer:
+  m_CorrespondingSourceObject: {fileID: -7511558181221131132, guid: 2d50e16a1b3ac2040b70f6096300d453, type: 3}
+  m_PrefabInstance: {fileID: 2971054391609889022}
+  m_PrefabAsset: {fileID: 0}

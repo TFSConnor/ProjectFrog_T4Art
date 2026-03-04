@@ -958,7 +958,7 @@
     "m_ObjectId": "11146682ff4048d887b53b5b370b2efa",
     "m_Title": "Sample the same texture a bunch of times and multiply them together for variety",
     "m_Position": {
-        "x": -2838.999755859375,
+        "x": -2839.0,
         "y": -1227.0
     }
 }
@@ -1267,7 +1267,7 @@
     "m_ObjectId": "24905aa7f3ef4a0394f284c907b8f74c",
     "m_Title": "how bright it should be",
     "m_Position": {
-        "x": -926.9999389648438,
+        "x": -927.0,
         "y": -64.0
     }
 }
@@ -1750,7 +1750,7 @@
     "m_Title": "Mask out the edges of the quad",
     "m_Position": {
         "x": -1359.0,
-        "y": 684.0000610351563
+        "y": 684.0
     }
 }
 
